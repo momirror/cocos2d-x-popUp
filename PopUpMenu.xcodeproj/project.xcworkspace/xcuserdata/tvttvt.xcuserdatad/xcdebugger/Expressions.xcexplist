@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "PopUpView::PopUpView(char*, char*, char*, char*, char*):PopUpView.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "m_pBgSprite">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
